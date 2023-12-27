@@ -1,0 +1,23 @@
+{
+  "name": "blaize-express-sql",
+  "version": "1.0.0",
+  "description": "An npm tool that creates automatically creates a file structure for REST API development in express.js with SQL. As a plus you get default folders setup and you can just start coding!!!",
+  "main": "index.js",
+  "bin": {
+    "blaize-express-sql": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "setup",
+    "sql",
+    "sequelize"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+   
+  }
+}
